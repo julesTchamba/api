@@ -15,3 +15,7 @@ Not get bored.
 The ONLY requirement is that this API MUST BE WRITTEN USING THE SPRING BOOT FRAMEWORK.
 
 
+# The Relation Data Model
+![alt text](http://url/to/img.png)
+
+
