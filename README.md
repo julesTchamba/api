@@ -15,7 +15,7 @@ Not get bored.
 The ONLY requirement is that this API MUST BE WRITTEN USING THE SPRING BOOT FRAMEWORK.
 
 
-# The Relation Data Model
-![alt text](http://url/to/img.png)
+# The Relation Data Model (option 1 ) others options in ressources folder
+![alt text](https://github.com/julesTchamba/api/blob/master/src/main/resources/RDM.PNG)
 
 
